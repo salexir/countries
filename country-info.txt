@@ -1,0 +1,8 @@
+countries:
+    canada:
+        region: north-america
+        capital: ottawa
+        official-language-1: english
+        official-language-2: french
+        driving-direction: right
+
