@@ -11,3 +11,9 @@ countries:
         official-language-1: english
         official-language-2: 
         driving-direction: right
+    mexico:
+        region: north-america
+        capital: mexico-city
+        official-language-1: spanish
+        official-language-2: 
+        driving-direction: right
