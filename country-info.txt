@@ -5,4 +5,9 @@ countries:
         official-language-1: english
         official-language-2: french
         driving-direction: right
-
+    usa:
+        region: north-america
+        capital: washington-dc
+        official-language-1: english
+        official-language-2: 
+        driving-direction: right
