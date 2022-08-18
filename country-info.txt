@@ -1,8 +1,8 @@
 countries:
     canada:
         region: north-america
-        capital: ottawa
-        official-language-1: english
+        capital: toronto
+        official-language-1: klingon 
         official-language-2: french
         driving-direction: right
     usa:
@@ -17,3 +17,9 @@ countries:
         official-language-1: spanish
         official-language-2: 
         driving-direction: right
+    antigua-and-barbuda:
+        region: north-america
+        capital: st-johns
+        official-language-1: english
+        official-language-2: 
+        driving-direction: left
