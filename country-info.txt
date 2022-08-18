@@ -23,3 +23,10 @@ countries:
         official-language-1: english
         official-language-2: 
         driving-direction: left
+    kingdom-of-gondor:
+        region: middle-earth
+        capital: osgiliath
+        official-language-1: 
+        official-language-2: 
+        driving-direction: 
+
